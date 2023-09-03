@@ -1,4 +1,17 @@
-### Hi there 👋
+# Welcome to my GitHub profile! 👋
 
-- 🌱 I’m currently learning about Spring Framework, React.js, Node.js and React Native
-- 📫 How to reach me: gabiceemi@gmail.com
+My name is Gabriel Cordova Medeiros, and I'm constantly exploring and learning about technology. Here are some of the technologies I'm currently studying:
+
+- React
+- Node.js
+- React Native
+- PHP
+- Java Spring Framework
+
+Feel free to explore my repositories to see what I'm working on or to learn along with me. If you have any questions, suggestions, or just want to chat about any of these topics, please don't hesitate to get in touch with me.
+
+## Contact Me
+
+- Email: [gabiceemi@gmail.com](mailto:gabiceemi@gmail.com)
+
+I'd love to hear from you! 😊
