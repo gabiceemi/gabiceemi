@@ -2,11 +2,14 @@
 
 My name is Gabriel Cordova Medeiros, and I'm constantly exploring and learning about technology. Here are some of the technologies I'm currently studying:
 
-- React
+- AdonisJS
+- AngularJS
 - Node.js
-- React Native
 - PHP
-- Java Spring Framework
+- React
+- React Native
+- VueJS
+
 
 Feel free to explore my repositories to see what I'm working on or to learn along with me. If you have any questions, suggestions, or just want to chat about any of these topics, please don't hesitate to get in touch with me.
 
