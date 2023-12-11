@@ -2,7 +2,6 @@
 
 My name is Gabriel Cordova Medeiros, and I'm constantly exploring and learning about technology. Here are some of the technologies I'm currently studying:
 
-- AdonisJS
 - AngularJS
 - Node.js
 - PHP
