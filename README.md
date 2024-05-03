@@ -14,8 +14,8 @@ Feel free to explore my repositories to see what I'm working on or to learn alon
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?gabiceemii&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?gabiceemi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
 ## Contact Me
