@@ -13,8 +13,8 @@ My name is Gabriel Cordova Medeiros, and I'm constantly exploring and learning a
 Feel free to explore my repositories to see what I'm working on or to learn along with me. If you have any questions, suggestions, or just want to chat about any of these topics, please don't hesitate to get in touch with me.
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?gabiceemii&layout=compact&langs_count=7&theme=dracula"/>
+<a href="https://github.com/gabiceemi">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?gabiceemi&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?gabiceemi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
