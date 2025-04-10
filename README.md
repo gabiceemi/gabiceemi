@@ -1,19 +1,28 @@
-# Welcome to my GitHub profile! 👋
+# 👋 Hey there! I'm Gabriel Cordova Medeiros
 
-My name is Gabriel Cordova Medeiros, and I'm constantly exploring and learning about technology. Here are some of the technologies I'm currently studying:
+🎯 Full-Stack Developer | 🚀 Tech Enthusiast | 🎨 Creative Coder
 
-- PHP
-- Dart
-- Java
-- React
-- Node.js
-- Cypress
-- React Native
-  
-Feel free to explore my repositories to see what I'm working on or to learn along with me. If you have any questions, suggestions, or just want to chat about any of these topics, please don't hesitate to get in touch with me.
+---
 
-## Contact Me
+## 💻 Tech Stack
 
-- Email: [gabiceemi@gmail.com](mailto:gabiceemi@gmail.com)
+- **Frontend:** React, React Native
+- **Backend:** Node.js, PHP
 
-I'd love to hear from you! 😊
+---
+
+## 🚀 Projects
+
+Feel free to explore my repositories to see more of my work!
+
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/devgcmedeiros/)
+- [Twitter](https://twitter.com/gcmedeiros_)
+- [Portfolio](https://gabiceemi.dev](http://coldcode.com.br))
+
+---
+
+*“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
