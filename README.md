@@ -1,28 +1,39 @@
-# 👋 Hey there! I'm Gabriel Cordova Medeiros
+# Gabriel Cordova Medeiros
 
-🎯 Full-Stack Developer | 🚀 Tech Enthusiast | 🎨 Creative Coder
+**Senior Full Stack Developer**
 
----
+## About Me
 
-## 💻 Tech Stack
-
-- **Frontend:** React, React Native
-- **Backend:** Node.js, PHP
-
----
-
-## 🚀 Projects
-
-Feel free to explore my repositories to see more of my work!
+- 5+ years designing scalable architectures for public & private sectors  
+- Expert in system integrations, performance optimization & end-to-end delivery  
+- Passionate about automating complex workflows and leading agile teams  
 
 ---
 
-## 📫 Let's Connect
+## Tech Stack
 
-- [LinkedIn](https://www.linkedin.com/in/devgcmedeiros/)
-- [Twitter](https://twitter.com/gcmedeiros_)
-- [Portfolio](https://gabiceemi.dev](http://coldcode.com.br))
+React • React Native • Node.js (Express, TypeORM) • PHP (Laravel) • Docker • CI/CD • TDD
 
 ---
 
-*“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+## Key Projects
+
+- **Omnichannel E-commerce**  
+  - 1,000+ orders/day across 60+ stores  
+  - Sub-2h delivery via Uber API  
+  - Real-time order notifications  
+
+- **Government & ERP Integrations**  
+  - Módulos para eSocial, Portal da Transparência & ERP público  
+  - Compliance e automação de relatórios financeiros  
+
+- **Payment Hub**  
+  - Integrações com Itaú, PagBank, Open Finance, PayPal & Stripe  
+  - Conciliação de alto volume transacional  
+
+---
+
+## Contact
+
+📧 gabriel@coldcode.com.br
+🌐 [LinkedIn](https://www.linkedin.com/in/devgcmedeiros/) · 🐙 [GitHub](https://github.com/gabiceemi)
